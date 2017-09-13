@@ -48,7 +48,7 @@ $("#targetScore").html(targetScore);
 
 console.log("------------------------------");
 console.log("Target Score: " + targetScore);
-console.log("Blue: " + crystal.blue.value + " + " | Green: " + crystal.green.value + " + " | Red: " + crystal.red.value + "  | Yellow: " + crystal.yellow.value + ");
+console.log("Blue: " + crystal.blue.value + " | Green: " + crystal.green.value + " | Red: " + crystal.red.value + "  | Yellow: " + crystal.yellow.value + "");
 console.log("--------------------------------");
 
 
